@@ -1,5 +1,6 @@
 function Home() {
-    return <h1>Sarah, eu amo você</h1>
+    var text = "O Brasil vence nas eliminatórias no estádio Mané Garrincha";
+    return <div><h1>Brasil 2 X 1 Colômbia</h1> <p>var</p></div>
 }
 
 export default Home;
