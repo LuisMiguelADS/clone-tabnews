@@ -1,0 +1,6 @@
+{
+  "extensions": [
+    "esbenp.prettier-vscode", // Prettier
+    "EditorConfig.EditorConfig" // EditorConfig
+  ]
+}
